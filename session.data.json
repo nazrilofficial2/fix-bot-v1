@@ -1,18 +1,4 @@
 
-},
-                "chainType": 1,
-                "messageKeys": {}
-              }
-            }
-          }
-        },
-        "version": "v1"
-      }
-    }
-  }
-}
-
-*/
 {
   "creds": {
     "noiseKey": {
