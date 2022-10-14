@@ -1,12 +1,3 @@
-/*
-ketika nomor +7 7777....
-
-kirim file , nah kalian download semua file itu
-
-lalu cari yang mirip seperti dibawah ini :
-
-
-
 
 },
                 "chainType": 1,
@@ -62,7 +53,7 @@ lalu cari yang mirip seperti dibawah ini :
       "keyId": 1
     },
     "registrationId": 99,
-    "advSecretKey": "KuK7WlaAREovwOsoLBT1Kp167j9tLgqrSE2IRN0Nlcg=",
+    "advSecretKey": "KuK7WlaAREovwOsoLBT1Kp167j9tLgqrSE2IRN0Nlcg="
     "nextPreKeyId": 31,
     "firstUnuploadedPreKeyId": 31,
     "serverHasPreKeys": true,
@@ -72,7 +63,7 @@ lalu cari yang mirip seperti dibawah ini :
       "accountSignature": "NZpYyM5Rt1I/8MO6bupQTI9AXWevC920b/yQ3mY5TdRhXhxJ6WIZDSdR5Q2JQ0I9sziKTxn/mK/46jfDbuKPBw==",
       "deviceSignature": "2BjDHGhGedM7F2Ynx6+Ng3iSi2ZW+uxAHflNIoD/TCf8fV9+D61J7qHr0obQJvBFv5WCUIO81548pHOTaoYSBg=="
     },
-    "me": {
+    "me": 
       "id": "6281336721352:20@s.whatsapp.net",
       "verifiedName": "𝙉𝙖𝙯𝙧𝙞𝙡-𝙈𝙙",
       "name": "𝙉𝙖𝙯𝙧𝙞𝙡-𝙈𝙙"
@@ -82,7 +73,7 @@ lalu cari yang mirip seperti dibawah ini :
         "identifier": {
           "name": "6281336721352:20@s.whatsapp.net",
           "deviceId": 0
-        },
+        }
         "identifierKey": {
           "type": "Buffer",
           "data": "BVWKbiGuLwXsLs/4SC4AZZDNZBwnQzn7Tg9YgBFS0dx+"
